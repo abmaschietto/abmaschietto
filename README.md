@@ -2,25 +2,15 @@
 
 Got a selection on good codes to show you, stranger!
 
-<!--
-**abmaschietto/abmaschietto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <h2>About me</h2>
 
 My name is Artur Boudoux Maschietto, I'm a full stack software developer, born and raised in São Paulo, Brazil.
 
-My favorites languajes are:
+My favorites languages are:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmaschietto&show_icons=true&theme=radical)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abmaschietto)](https://github.com/abmaschietto/github-readme-stats)
+
+_____________
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmaschietto&show_icons=true&theme=tokyonight)
