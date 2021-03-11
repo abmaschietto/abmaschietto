@@ -8,7 +8,7 @@ My name is Artur Boudoux Maschietto, I'm a full stack software developer, born a
 
 My favorites languages are:
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=abmaschietto)](https://github.com/abmaschietto/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KaiqueJuvencio&exclude_repo=portfolio-tcb,abmaschietto.github.io&show_icons=true&hide=html,teX&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
 _____________
 
