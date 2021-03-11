@@ -1,4 +1,6 @@
-### Hi there 👋
+<h2>Weeeelcome ...!</h2>
+
+Got a selection on good codes to show you, stranger!
 
 <!--
 **abmaschietto/abmaschietto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2>About me</h2>
+
+My name is Artur Boudoux Maschietto, I'm a full stack software developer, born and raised in São Paulo, Brazil.
+
+My favorites languajes are:
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmaschietto&show_icons=true&theme=radical)
