@@ -17,7 +17,6 @@ _____________
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmaschietto&show_icons=true&theme=maroongold)
 
-
 _____________
 
 <p>Those are some of my codes, if you like them or want to contact me please do so. You reach me  <b>here:</b></p>
