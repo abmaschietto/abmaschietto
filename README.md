@@ -14,7 +14,6 @@ My name is Artur Boudoux Maschietto, I'm a full stack developer, born and raised
 _____________
 
 <h2>My stats</h2>
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmaschietto&show_icons=true&theme=maroongold)
 
 _____________
