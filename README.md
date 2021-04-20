@@ -15,7 +15,7 @@ _____________
 
 <h2>My stats</h2>
 
-https://github-readme-stats.vercel.app/api?username=abmaschietto&show_icons=true&theme=maroongold
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abmaschietto&show_icons=true&theme=maroongold)
 
 _____________
 
