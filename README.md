@@ -9,7 +9,7 @@ My name is Artur Boudoux Maschietto, I'm a full stack developer, born and raised
 
 <h2>My favorites languages are:</h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmaschietto&exclude_repo=portfolio-tcb,abmaschietto.github.io&show_icons=true&hide=html,teX&theme=maroongold)](https://github.com/anuraghazra/github-readme-stats) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abmaschietto&exclude_repo=portfolio-tcb,abmaschietto.github.io&show_icons=true&hide=html,teX&theme=maroongold)]
 
 _____________
 
